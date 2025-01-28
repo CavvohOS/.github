@@ -6,7 +6,7 @@ Cavvoh OS aims to provide users with a Pixel-like feel at first glance, with add
 - Additional customization
 
 ## Currently supported Android versions
-- Android 14 QPR3
+- Android 15 QPR1
 
 ## Important Links
 - [Manifest](https://github.com/Cavvoh-OS/manifest)
